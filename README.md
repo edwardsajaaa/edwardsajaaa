@@ -84,11 +84,62 @@ const edward = {
 
 <div align="center">
 
-### 🐍 Snake Game - Eating My Contributions!
+### 🕹️ Play Some Games!
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🐍 Snake Game
 ![Snake animation](https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake-dark.svg)
+*Snake eating my contributions!*
 
-*Watch the snake eat my GitHub contributions! 🎮*
+</td>
+<td align="center" width="50%">
+
+### 🎯 Tic-Tac-Toe
+[![Play Tic-Tac-Toe](https://img.shields.io/badge/Play-Tic--Tac--Toe-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=tictactoe%7Cnew&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+*Challenge me to a game!*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🎲 Rock Paper Scissors
+[![Rock](https://img.shields.io/badge/Play-🪨_Rock-blue?style=for-the-badge)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=rps%7Crock&body=Just+push+%27Submit+new+issue%27)
+[![Paper](https://img.shields.io/badge/Play-📄_Paper-green?style=for-the-badge)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=rps%7Cpaper&body=Just+push+%27Submit+new+issue%27)
+[![Scissors](https://img.shields.io/badge/Play-✂️_Scissors-red?style=for-the-badge)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=rps%7Cscissors&body=Just+push+%27Submit+new+issue%27)
+*Pick your move!*
+
+</td>
+<td align="center" width="50%">
+
+### 🎰 Guess the Number
+[![Play Guess Game](https://img.shields.io/badge/Play-Guess_Number-FFD93D?style=for-the-badge&logo=target&logoColor=black)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=guess%7Cnew&body=Guess+a+number+between+1-100!)
+*Test your luck! (1-100)*
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🎵 Music Player
+[![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=31k56w6w6w5g4hsfwi3mhg4iqyam&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/edwardsajaaa)
+*My current coding soundtrack*
+
+</td>
+</tr>
+</table>
+
+### 🎯 Game Features:
+- **Snake** - Watch it consume my GitHub contributions in real-time
+- **Tic-Tac-Toe** - Play against an AI bot via GitHub Issues
+- **Rock Paper Scissors** - Quick battle with instant results
+- **Guess the Number** - Test your intuition (1-100 range)
+- **Music Player** - See what I'm currently listening to on Spotify
+
+*💡 Pro tip: Games using GitHub Issues will update the README automatically!*
 
 </div>
 
