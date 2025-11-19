@@ -106,7 +106,7 @@ const edward = {
 
 ---
 
-## 💻 Tech ArenA
+## 💻 Tech Arena
 
 <details open>
 <summary><b>🎮 Game Development</b></summary>
@@ -183,7 +183,7 @@ const edward = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=edwardsajaaa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=edwardsajaaa&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
 </div>
 
 <div align="center">
