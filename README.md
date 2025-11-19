@@ -83,23 +83,26 @@ const edward = {
 
 ---
 
-## 🎮 Contribution Game Zone
+## 🎮 Pac-Man Eating My Contributions!
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake-dark.svg" alt="Contribution Game Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake.svg">
+</picture>
 
-### 🟡 Pac-Man Style Animation!
-*Watch the character eat through my GitHub contributions!* 🎮
+### 🟡 Wakka Wakka! 🟡
 
-**Game Stats:**
-- 🎯 Total Contributions: ![GitHub Stats](https://img.shields.io/github/commit-activity/y/edwardsajaaa/edwardsajaaa?style=flat-square)
-- 🔥 Current Streak: Active Developer
-- 🏆 Level: Game Developer
+*The Pac-Man is eating through my GitHub contributions!*
 
-</div>
+**🎮 Game Info:**
+- 🟠 Character: Orange Snake (Pac-Man style)
+- 🔵 Pellets: My daily commits
+- 🏆 Score: Contribution count
 
---- 
+</div> 
 
 ---
 
@@ -185,6 +188,10 @@ const edward = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsajaaa&theme=radical&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwardsajaaa&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
