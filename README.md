@@ -80,66 +80,13 @@ const edward = {
 
 ---
 
-## 🎮 Interactive Game Zone
+## 🎮 Contribution Activity
 
 <div align="center">
 
-### 🕹️ Play Some Games!
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🐍 Snake Game
 ![Snake animation](https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake-dark.svg)
-*Snake eating my contributions!*
 
-</td>
-<td align="center" width="50%">
-
-### 🎯 Tic-Tac-Toe
-[![Play Tic-Tac-Toe](https://img.shields.io/badge/Play-Tic--Tac--Toe-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=tictactoe%7Cnew&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
-*Challenge me to a game!*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🎲 Rock Paper Scissors
-[![Rock](https://img.shields.io/badge/Play-🪨_Rock-blue?style=for-the-badge)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=rps%7Crock&body=Just+push+%27Submit+new+issue%27)
-[![Paper](https://img.shields.io/badge/Play-📄_Paper-green?style=for-the-badge)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=rps%7Cpaper&body=Just+push+%27Submit+new+issue%27)
-[![Scissors](https://img.shields.io/badge/Play-✂️_Scissors-red?style=for-the-badge)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=rps%7Cscissors&body=Just+push+%27Submit+new+issue%27)
-*Pick your move!*
-
-</td>
-<td align="center" width="50%">
-
-### 🎰 Guess the Number
-[![Play Guess Game](https://img.shields.io/badge/Play-Guess_Number-FFD93D?style=for-the-badge&logo=target&logoColor=black)](https://github.com/edwardsajaaa/edwardsajaaa/issues/new?title=guess%7Cnew&body=Guess+a+number+between+1-100!)
-*Test your luck! (1-100)*
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🎵 Music Player
-[![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=31k56w6w6w5g4hsfwi3mhg4iqyam&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/edwardsajaaa)
-*My current coding soundtrack*
-
-</td>
-</tr>
-</table>
-
-### 🎯 Game Features:
-- **Snake** - Watch it consume my GitHub contributions in real-time
-- **Tic-Tac-Toe** - Play against an AI bot via GitHub Issues
-- **Rock Paper Scissors** - Quick battle with instant results
-- **Guess the Number** - Test your intuition (1-100 range)
-- **Music Player** - See what I'm currently listening to on Spotify
-
-*💡 Pro tip: Games using GitHub Issues will update the README automatically!*
+*Watch the snake eat my GitHub contributions!* 🐍
 
 </div>
 
@@ -220,36 +167,34 @@ const edward = {
 ---
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=edwardsajaaa&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsajaaa&theme=radical&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsajaaa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwardsajaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwardsajaaa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=edwardsajaaa&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edwardsajaaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/>
-</p>
+<div align="center">
 
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 💡 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
+</div>
 
 ---
 
