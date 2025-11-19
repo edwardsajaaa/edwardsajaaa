@@ -106,7 +106,7 @@ const edward = {
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Tech ArenA
 
 <details open>
 <summary><b>🎮 Game Development</b></summary>
@@ -182,16 +182,16 @@ const edward = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=edwardsajaaa&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=edwardsajaaa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsajaaa&theme=radical&hide_border=true&layout=compact&langs_count=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsajaaa&theme=github_dark&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwardsajaaa&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwardsajaaa&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -199,7 +199,7 @@ const edward = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edwardsajaaa&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=edwardsajaaa&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" />
 </p>
 
 ---
@@ -208,7 +208,7 @@ const edward = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
