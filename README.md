@@ -214,20 +214,56 @@ const edward = {
 
 ---
 
-## 📫 Let's Collaborate!
+## 💼 What I'm Looking For
 
 <div align="center">
 
-I'm always open to interesting conversations and collaboration opportunities!
+<table>
+<tr>
+<td align="center" width="33%">
 
-**💬 Topics I love discussing:**
-- 🎮 Game Development & Design
-- 💻 Software Architecture
-- 🤖 AI & Machine Learning
-- 🌐 Web Technologies
-- 📊 Data Engineering
+### 🎯 Open to Opportunities
+**Internships & Projects**
+- Game Development Roles
+- Backend Engineering
+- Database Engineering
+- AI/ML Projects
 
-**📧 Reach out:** [edwardbene07@gmail.com](mailto:edwardbene07@gmail.com)
+</td>
+<td align="center" width="33%">
+
+### 🤝 Open Source Contributions
+**Looking to contribute to:**
+- Unity/C# Game Projects
+- Python Web Frameworks
+- Machine Learning Libraries
+- Database Tools
+
+</td>
+<td align="center" width="33%">
+
+### 💡 Project Collaborations
+**Interested in building:**
+- Multiplayer Games
+- Web Applications
+- AI-Powered Tools
+- Educational Tech
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📬 Get In Touch
+
+**Best ways to reach me:**
+
+[![Email](https://img.shields.io/badge/Email_Me-edwardbene07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwardbene07@gmail.com)
+
+**Response time:** Usually within 24-48 hours  
+**Languages:** English, Indonesian  
+**Time Zone:** WIB (GMT+7)
 
 </div>
 
@@ -235,10 +271,12 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
+### ⭐ Thanks for visiting! ⭐
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=edwardsajaaa&label=Profile%20Views&color=00D9FF&icon=5&pretty=true)
 
-<sub>Made with ❤️ and lots of ☕</sub>
+💙 *Open to collaboration, learning, and building amazing things together!* 💙
+
+<sub>Last updated: November 2025</sub>
 
 </div>
