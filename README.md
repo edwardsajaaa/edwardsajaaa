@@ -10,11 +10,11 @@ Hi, I’m Edward Benedict — a computer science student passionate about buildi
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=edwardsajaaa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwardsajaaa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsajaaa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsajaaa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=edwardsajaaa&theme=nightowl&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=edwardsajaaa&theme=nightowl&hide_border=false)
 
 </div>
 
