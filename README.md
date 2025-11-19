@@ -83,13 +83,19 @@ const edward = {
 
 ---
 
-## 🎮 Contribution Activity
+## 🎮 Contribution Game Zone
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake-dark.svg" alt="Contribution Game Animation" />
 
-*Watch the snake eat my GitHub contributions!* 🐍
+### 🟡 Pac-Man Style Animation!
+*Watch the character eat through my GitHub contributions!* 🎮
+
+**Game Stats:**
+- 🎯 Total Contributions: ![GitHub Stats](https://img.shields.io/github/commit-activity/y/edwardsajaaa/edwardsajaaa?style=flat-square)
+- 🔥 Current Streak: Active Developer
+- 🏆 Level: Game Developer
 
 </div>
 
