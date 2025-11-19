@@ -90,17 +90,18 @@ const edward = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake.svg">
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### 🟡 Wakka Wakka! 🟡
 
-*The Pac-Man is eating through my GitHub contributions!*
+*Pac-Man sedang memakan kontribusi GitHub saya!*
 
-**🎮 Game Info:**
-- 🟠 Character: Orange Snake (Pac-Man style)
-- 🔵 Pellets: My daily commits
-- 🏆 Score: Contribution count
+**🎮 Game Stats:**
+- 🟡 Character: Pac-Man (Yellow Snake)
+- 🔵 Pellets: Commit harian saya
+- 👻 Ghosts: Bugs yang harus dihindari
+- 🏆 High Score: Total contributions
 
 </div> 
 
