@@ -274,28 +274,6 @@ const edward = {
 
 ###  If you like my work, consider giving a star to my repositories! 
 
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Made_with--red?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Powered_by-_Coffee-brown?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Built_with-_Code-blue?style=for-the-badge" />
-</td>
-</tr>
-</table>
-
-<br>
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=edwardsajaaa&label=Profile%20Views&color=00D9FF&icon=5&pretty=true)
-
-<br>
-
 ```typescript
 // Life motto 
 const developer = {
