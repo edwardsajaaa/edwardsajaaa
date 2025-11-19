@@ -268,9 +268,6 @@ const edward = {
 </div>
 
 ---
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 ###  If you like my work, consider giving a star to my repositories! 
 
@@ -285,12 +282,6 @@ const developer = {
 
 console.log("Let's create something amazing together! ");
 ```
-
-<br>
-
-<sub> 2025 Edward Benedict  Built with passion and dedication  Last updated: November 2025</sub>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
