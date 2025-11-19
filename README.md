@@ -93,16 +93,6 @@ const edward = {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🟡 Wakka Wakka! 🟡
-
-*Pac-Man sedang memakan kontribusi GitHub saya!*
-
-**🎮 Game Stats:**
-- 🟡 Character: Pac-Man (Yellow Snake)
-- 🔵 Pellets: Commit harian saya
-- 👻 Ghosts: Bugs yang harus dihindari
-- 🏆 High Score: Total contributions
-
 </div> 
 
 ---
