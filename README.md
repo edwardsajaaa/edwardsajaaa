@@ -268,15 +268,52 @@ const edward = {
 </div>
 
 ---
-
 <div align="center">
 
-### ⭐ Thanks for visiting! ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+
+###  If you like my work, consider giving a star to my repositories! 
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Made_with--red?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Powered_by-_Coffee-brown?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Built_with-_Code-blue?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+<br>
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=edwardsajaaa&label=Profile%20Views&color=00D9FF&icon=5&pretty=true)
 
-💙 *Open to collaboration, learning, and building amazing things together!* 💙
+<br>
 
-<sub>Last updated: November 2025</sub>
+```typescript
+// Life motto 
+const developer = {
+    name: "Edward Benedict",
+    mission: "Turn ideas into reality through code",
+    belief: "Every bug is a step closer to perfection",
+    status: "Always learning, always building "
+};
+
+console.log("Let's create something amazing together! ");
+```
+
+<br>
+
+<sub> 2025 Edward Benedict  Built with passion and dedication  Last updated: November 2025</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
