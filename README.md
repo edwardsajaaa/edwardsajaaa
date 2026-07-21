@@ -35,7 +35,7 @@
 ```ts
 const starboy = {
   name: "Edward Benedict",
-  based: "Indonesia 🇮🇩",
+  based: "Indonesia",
   role: "CS Student",
   
   stack: {
@@ -60,7 +60,7 @@ const starboy = {
 
 <!-- ════════════════════════════════════════════ -->
 
-## ⚡ ARSENAL
+## ARSENAL
 
 <details open>
 <summary><b>GAME DEV</b></summary>
@@ -116,7 +116,7 @@ const starboy = {
 
 ---
 
-## 📊 STATS
+## STATS
 
 <div align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=edwardsajaaa&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=e50914&text_color=c9d1d9&icon_color=f5c518" alt="GitHub Stats" />
@@ -131,7 +131,7 @@ const starboy = {
 
 ---
 
-## 👾 CONTRIBUTIONS
+## CONTRIBUTIONS
 
 <div align="center">
 
@@ -145,7 +145,7 @@ const starboy = {
 
 ---
 
-## 🎯 LOOKING FOR
+## LOOKING FOR
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Web Apps · AI Tools
 
 ---
 
-## 🔗 CONNECT
+## CONNECT
 
 <div align="center">
 
@@ -205,7 +205,7 @@ Web Apps · AI Tools
 <br>
 
 <div align="center">
-  <sub>★ star my repos if you fw the vision</sub>
+  <sub>star my repos if you support the vision</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0000,50:8b0000,75:1a0000,100:0a0a0a&height=100&section=footer" width="100%"/>
