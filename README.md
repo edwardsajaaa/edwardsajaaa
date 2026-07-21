@@ -19,9 +19,20 @@
 <br>
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31veninnqxz76pgk364u5tdnhtce&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31veninnqxz76pgk364u5tdnhtce&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0a0a&interchange=true&bar_color=e50914" alt="Spotify Now Playing" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31veninnqxz76pgk364u5tdnhtce&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31veninnqxz76pgk364u5tdnhtce&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0a0a&interchange=true&bar_color=e50914" alt="Spotify Now Playing" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://discord.com/users/543359770380468225">
+          <img src="https://lanyard.cnrad.dev/api/543359770380468225?theme=dark&bg=0a0a0a&animated=true&hideDiscrim=true&idleMessage=Probably%20coding..." alt="Discord Presence" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
