@@ -111,7 +111,7 @@ const starboy = {
 ## 📊 STATS
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=e50914&text_color=c9d1d9&icon_color=f5c518" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=edwardsajaaa&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=e50914&text_color=c9d1d9&icon_color=f5c518" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=edwardsajaaa&hide_border=true&background=0D1117&ring=e50914&fire=f5c518&currStreakLabel=e50914&sideLabels=c9d1d9&dates=555555&currStreakNum=f5c518&sideNums=c9d1d9&stroke=1a0000" alt="GitHub Streak" />
 </div>
 
@@ -119,12 +119,6 @@ const starboy = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwardsajaaa&hide_border=true&area=true&bg_color=0d1117&color=e50914&line=e50914&point=f5c518&area_color=1a0000" width="98%" alt="Activity Graph"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edwardsajaaa&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies"/>
 </div>
 
 ---
