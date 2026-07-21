@@ -111,26 +111,20 @@ const starboy = {
 ## 📊 STATS
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=e50914&text_color=8b949e&icon_color=f5c518&ring_color=e50914" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=e50914&text_color=8b949e&icon_color=f5c518&ring_color=e50914" alt="stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=edwardsajaaa&hide_border=true&background=00000000&ring=e50914&fire=f5c518&currStreakLabel=e50914&sideLabels=8b949e&dates=555555&currStreakNum=f5c518&sideNums=e6edf3&stroke=1a0000" />
-    <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=edwardsajaaa&hide_border=true&background=00000000&ring=e50914&fire=f5c518&currStreakLabel=e50914&sideLabels=8b949e&dates=555555&currStreakNum=f5c518&sideNums=e6edf3&stroke=1a0000" alt="streak" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edwardsajaaa&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=e50914&text_color=c9d1d9&icon_color=f5c518" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=edwardsajaaa&hide_border=true&background=0D1117&ring=e50914&fire=f5c518&currStreakLabel=e50914&sideLabels=c9d1d9&dates=555555&currStreakNum=f5c518&sideNums=c9d1d9&stroke=1a0000" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwardsajaaa&hide_border=true&area=true&bg_color=0a0a0a&color=e50914&line=e50914&point=f5c518&area_color=1a0000" width="98%" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwardsajaaa&hide_border=true&area=true&bg_color=0d1117&color=e50914&line=e50914&point=f5c518&area_color=1a0000" width="98%" alt="Activity Graph"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edwardsajaaa&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=edwardsajaaa&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies"/>
 </div>
 
 ---
