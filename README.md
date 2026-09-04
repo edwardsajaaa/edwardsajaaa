@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0000,50:8b0000,75:1a0000,100:0a0a0a&height=220&section=header&text=EDWARD%20BENEDICT&fontSize=48&fontColor=e50914&animation=fadeIn&fontAlignY=38&desc=I%20don't%20sleep%2C%20I%20code.&descSize=14&descColor=f5c518&descAlignY=58" width="100%"/>
+<img src="https://raw.githubusercontent.com/edwardsajaaa/edwardsajaaa/main/matrix-binary-rain.svg" width="100%"/>
 
 <div align="center">
 
