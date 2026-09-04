@@ -63,7 +63,7 @@ const starboy = {
 </td>
 <td width="45%">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/KZGRM82VAnXTfsBQbS/giphy.gif" width="100%"/>
 
 </td>
 </tr>
