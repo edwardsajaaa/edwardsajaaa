@@ -34,7 +34,7 @@ const starboy = {
 ```
 
 </td>
-<td width="24%" valign="top" align="center">
+<td width="48%" valign="top" align="center">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31veninnqxz76pgk364u5tdnhtce&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31veninnqxz76pgk364u5tdnhtce&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0a0a&interchange=true&bar_color=e50914" alt="Spotify" width="100%"/>
@@ -45,11 +45,7 @@ const starboy = {
 </a>
 
 </td>
-<td width="24%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/KZGRM82VAnXTfsBQbS/giphy.gif" width="100%"/>
-
-</td>
 </tr>
 </table>
 
