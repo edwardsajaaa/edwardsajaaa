@@ -24,7 +24,7 @@ const starboy = {
 
   stack: {
     games:  ["Unity", "C#", "C++", "Blender"],
-    apps:   ["Flutter", "Dart", "PHP", "Python"],
+    apps:   ["Flutter", "Dart", "PHP", "Python", "JS", "Vue"],
     data:   ["PostgreSQL", "MySQL", "SQLite"],
     tools:  ["Git", "Notion", "Postman", "Markdown"],
     iot:    ["ESP32", "Arduino"]
@@ -61,7 +61,7 @@ const starboy = {
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender,html,css,php,python,flutter,dart,postgres,mysql,sqlite,git,github,arduino,notion,md,postman&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender,html,css,js,vue,php,python,flutter,dart,postgres,mysql,sqlite,git,github,arduino,notion,md,postman&theme=dark&perline=11" />
 </a>
 
 <br><br>
