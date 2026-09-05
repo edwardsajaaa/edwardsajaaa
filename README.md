@@ -23,10 +23,11 @@ const starboy = {
   role:  "CS Student",
 
   stack: {
-    games:  ["Unity", "Unreal", "C#", "C++"],
-    web:    ["Full Stack", "PHP", "Python"],
-    data:   ["PostgreSQL", "TensorFlow"],
-    tools:  ["Git", "Figma", "Blender"]
+    games:  ["Unity", "C#", "C++", "Blender"],
+    apps:   ["Flutter", "Dart", "PHP", "Python"],
+    data:   ["PostgreSQL", "MySQL", "SQLite"],
+    tools:  ["Git", "Notion", "Postman", "Markdown"],
+    iot:    ["ESP32", "Arduino"]
   },
 
   status: "can't feel my face when I'm coding"
@@ -60,7 +61,7 @@ const starboy = {
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,html,css,php,python,vercel,tensorflow,postgres,mysql,git,github,figma&theme=dark&perline=16" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender,html,css,php,python,flutter,dart,postgres,mysql,sqlite,git,github,arduino,notion,md,postman&theme=dark&perline=10" />
 </a>
 
 <br><br>
@@ -68,11 +69,9 @@ const starboy = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-0a0a0a?style=flat-square&logo=espressif&logoColor=e50914)
 ![Terminal](https://img.shields.io/badge/Terminal-0a0a0a?style=flat-square&logo=windows-terminal&logoColor=e50914)
-![Canva](https://img.shields.io/badge/Canva-0a0a0a?style=flat-square&logo=canva&logoColor=e50914)
-![Apache](https://img.shields.io/badge/Apache-0a0a0a?style=flat-square&logo=apache&logoColor=e50914)
 
 </div>
 
