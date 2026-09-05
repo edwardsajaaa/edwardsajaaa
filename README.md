@@ -95,7 +95,7 @@ const starboy = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwardsajaaa&hide_border=true&area=true&bg_color=0d1117&color=e50914&line=e50914&point=f5c518&area_color=1a0000" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardsajaaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=e50914&text_color=c9d1d9" width="100%" alt="Top Languages"/>
 </div>
 
 <div align="center">
